@@ -1,7 +1,15 @@
-# Game-Space 🎮
+# Game-Space 🚀
 
-Prosta gra napisana w **Pythonie** z użyciem **Pygame Zero**.  
-Celem gry jest … *(tu wpisz krótki opis fabuły lub zadania, np. „unikaj przeszkód i zbieraj punkty, aby zdobyć jak najwyższy wynik”)*.
+Przygodowa gra stworzona w **Pythonie** z użyciem **Pygame Zero**.  
+Akcja rozgrywa się w tajemniczej bazie na Marsie, z której musisz się wydostać, zanim będzie za późno.  
+
+Twoim celem jest:
+- 🌌 Eksploracja mapy w poszukiwaniu **przydatnych elementów** i zasobów  
+- 🛠️ **Łączenie zdobytych przedmiotów**, aby tworzyć nowe narzędzia i rozwiązania  
+- ⚠️ Unikanie **wrogich obiektów i pułapek**, które mogą uniemożliwić ucieczkę  
+- 🚪 Odnalezienie drogi wyjścia z bazy i opuszczenie Marsa  
+
+Gra łączy elementy eksploracji, logicznego myślenia oraz zręczności, zapewniając wciągającą i wymagającą rozgrywkę.
 
 ---
 
