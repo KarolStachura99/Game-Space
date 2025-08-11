@@ -13,27 +13,15 @@ Gra łączy elementy eksploracji, logicznego myślenia oraz zręczności, zapewn
 
 ---
 
-## 📜 Spis treści
-- [Wymagania](#wymagania)
-- [Instalacja](#instalacja)
-- [Uruchomienie](#uruchomienie)
-- [Sterowanie](#sterowanie)
-- [Struktura projektu](#struktura-projektu)
-- [Zrzuty ekranu](#zrzuty-ekranu)
-- [Licencja](#licencja)
-
----
-
 ## Wymagania
 - Python 3.10+  
 - **Pygame Zero**  
-  *(jeżeli gra używa zwykłego Pygame, zamiast tego podaj `pygame`)*
 
 ---
 
 ## Instalacja
 ```bash
-# 1) Klonuj repozytorium
+# 1) Klonuj repozytorium lub pobierz pliki
 git clone https://github.com/<TwojLogin>/Game-Space.git
 cd Game-Space
 
@@ -45,4 +33,4 @@ python -m venv .venv
 source .venv/bin/activate
 
 # 3) Zainstaluj zależności
-pip install -r requirements.txt
+pip install pgzero
